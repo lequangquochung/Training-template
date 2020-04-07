@@ -1,0 +1,19 @@
+
+body{
+background-color: #eee;
+}
+ol li {
+    list-style-type: none;    
+}
+
+.container {
+	margin-top: 20px;    
+    border-style: ridge;
+    border-radius: 1px;
+    
+}
+
+.list-chapter {
+    margin-top: 10px;
+    padding: 0;
+}
